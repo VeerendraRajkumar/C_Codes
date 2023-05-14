@@ -29,7 +29,7 @@ void main()
     {
     for(i=k,j=k,no=dn*dn;j<dn;j++,no--)
         m[i][j]=no;
-    for()
+//     for()
     }
     for(i=0;i<n;i++)
     {    
