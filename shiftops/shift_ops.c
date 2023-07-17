@@ -23,5 +23,10 @@ int circular_left_shift(int n,int pos)
 {
     int n,pos;
 
-    printf("\n\tEnter the \n")
+    printf("\n\tNumber: \n");
+    scanf("%d", &n);
+    printf("\n\tPosition: \n");
+    scanf("%d", &pos);
+
+    circular_left_shift(n, pos);
 }
